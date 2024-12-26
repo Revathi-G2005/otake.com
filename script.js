@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     verticalMenu.classList.add("vertical-navigation-bar");
     verticalMenu.innerHTML = `
       <div class="nav-item" onclick="window.location.href='index.html'">About</div>
-      <div class="nav-item" onclick="window.location.href='pricing.html'">Pricing</div>
+      <div class="nav-item" onclick="window.location.href='price.html'">Pricing</div>
       <div class="nav-item" onclick="window.location.href='contact.html'">Contact</div>
       <div class="nav-item" onclick="window.location.href='signin.html'">Sign In</div>
       <div class="nav-item" onclick="window.location.href='tryfree.html'">Try for Free</div>
